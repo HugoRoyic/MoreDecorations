@@ -1,6 +1,6 @@
-package net.hugoroyic.royicfirstmod.mixin;
+package net.hugoroyic.moredecorations.mixin;
 
-import net.hugoroyic.royicfirstmod.RoyicFirstMod;
+import net.hugoroyic.moredecorations.MoreDecorations;
 import net.minecraft.client.gui.screen.TitleScreen;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
@@ -11,6 +11,6 @@ import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
 public class ExampleMixin {
 	@Inject(at = @At("HEAD"), method = "init()V")
 	private void init(CallbackInfo info) {
-		RoyicFirstMod.LOGGER.info("This line is printed by an example mod mixin!");
+		MoreDecorations.LOGGER.info("This line is printed by an example mod mixin!");
 	}
 }
