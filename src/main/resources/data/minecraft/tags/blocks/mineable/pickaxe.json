@@ -1,8 +1,8 @@
 {
   "replace": false,
   "values": [
-    "royic-first-mod:white_concrete_slab",
-    "royic-first-mod:white_concrete_stairs",
+    "more-decorations:white_concrete_slab",
+    "more-decorations:white_concrete_stairs",
     "more-decorations:orange_concrete_slab",
     "more-decorations:orange_concrete_stairs",
     "more-decorations:magenta_concrete_slab",

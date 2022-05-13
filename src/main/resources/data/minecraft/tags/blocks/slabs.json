@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "more-decorations:white_concrete_slab",
+    "more-decorations:orange_concrete_slab",
+    "more-decorations:magenta_concrete_slab",
+    "more-decorations:light_blue_concrete_slab",
+    "more-decorations:yellow_concrete_slab",
+    "more-decorations:lime_concrete_slab",
+    "more-decorations:pink_concrete_slab",
+    "more-decorations:gray_concrete_slab",
+    "more-decorations:light_gray_concrete_slab",
+    "more-decorations:cyan_concrete_slab",
+    "more-decorations:purple_concrete_slab",
+    "more-decorations:blue_concrete_slab",
+    "more-decorations:brown_concrete_slab",
+    "more-decorations:green_concrete_slab",
+    "more-decorations:red_concrete_slab",
+    "more-decorations:black_concrete_slab"
+  ]
+}
